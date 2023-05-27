@@ -1,0 +1,22 @@
+$ git add .
+$ git commit -m "Adding my portfolio"
+$ git push
+
+$ git add .
+$ git commit -m "Adding social networks"
+$ git push
+
+$ git add .
+$ git commit -m "Adding testing artefacts"
+$ git push
+
+$git init
+$git init
+
+
+$ git clone git@github.com:mdubrovcev/charlesproxy-.git
+$ git clone git@github.com:mdubrovcev/postman.git
+$ git clone git@github.com:mdubrovcev/test_design_techniques.git
+$ git clone git@github.com:mdubrovcev/demowebshop.git
+$ git clone git@github.com:mdubrovcev/guru99.git
+$ git clone git@github.com:mdubrovcev/SQL.git
